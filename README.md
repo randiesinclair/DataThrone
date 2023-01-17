@@ -49,6 +49,10 @@ Fun facts:
 - Most death Beyond the Wall was not at the hands of anyone. For example, of the 917 Wights that died Beyond the Wall 421 of them drowned.
 
 ![Slide3](https://user-images.githubusercontent.com/109693942/213018562-a5d8c4fe-a9c1-479d-83c3-d9d22c1a85db.jpg)
+
+<h1 align="center">#2 - MOST DANGEROUS AREAS</h1>
+<h2 align="center">KING'S LANDING</h2>
+
 - Drogon is the largest and deadliest dragon in the shows run. 917 of his 1,426 total kills took place in King’s Landing
 - Cersei Lannister was a ruthless but very effective leader who oversaw The Seven Kingdoms. She assumed the throne after tragically losing each of her children, and was the last monarch to sit on the Iron Throne before it was destroyed.
 
@@ -57,7 +61,11 @@ Fun Facts:
 - King’s Landing is the home of the most amount of deaths of characters who were categorized as most important to the series (16): 
 	- Robert Baratheon, Ned Stark, Joffrey Baratheon, Oberyn Martell, Shae, Tywin Lannister, High Sparrow, Loras Tyrell, Margaery Tyrell, Tommen Baratheon, Missandei, Euron Greyjoy, Sandor “The Hound” Clegane, Jaime Lannister, Cersei Lannister, and Daenerys Targaryen 
 - King’s Landing is the location of the very last death in the series
+
 ![Slide5](https://user-images.githubusercontent.com/109693942/213019363-5245ad8a-f1ce-4f9c-9f80-cc8a25befca2.jpg)
+<h1 align="center">#1 - MOST DANGEROUS AREAS</h1>
+<h2 align="center">WINTERFELL</h2>
+
 - If we remove all death connected to the Night King’s slaying, Arya drops to #4 with only 24 kills
 - The Wights led by the Night King and White Walkers descended on Winterfell in search of Bran Stark to kill him. They were met by several forces to stand against them starting one of the largest battles of the show, hence the most kills in Winterfell
 
