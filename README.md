@@ -10,6 +10,8 @@ When it came time to pick a topic for a fun data project, I knew I wanted to div
 - Data Cleansing
 - Jupyter Notebook
 
+![image](https://user-images.githubusercontent.com/109693942/214224794-61021f25-46f6-4742-a233-ec498e3394bc.png)
+
 # Additional Dataset Information
 
 With this database I researched the top 3 deadliest areas of this world, the top 5 killers in each of those areas, and also the top 5 deaths by allegiance in each of the 3 areas. To clarify, I wanted to know what allegiance it was most dangerous for in each of those areas. If you’ve never seen this show and plan to, turn your volume all the way down right now. Many spoilers ahead!
